@@ -1,4 +1,4 @@
-{
+﻿{
   "SerialList": [
     {
       "Site": "CNBJ",
@@ -17282,6 +17282,11 @@
     },
     {
       "Site": "CNSR",
+      "Name": "CNSRWN174293",
+      "SN": "1LFPKR3"
+    },
+    {
+      "Site": "CNSR",
       "Name": "CNSRWN174292",
       "SN": "6MFPKR3"
     },
@@ -30464,6 +30469,11 @@
       "Site": "CNSU",
       "Name": "CNSUGEN3MFT02",
       "SN": "C400ADC7300C"
+    },
+    {
+      "Site": "CNSU",
+      "Name": "CNSUWN177914",
+      "SN": "867N0T3"
     },
     {
       "Site": "CNSU",
